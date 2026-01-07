@@ -98,8 +98,6 @@
 
 # Compilation, Interpretation, and Programming Paradigms
 
-## MTI – Méthodes et Technologies d’Implémentation
-
 ## Compilation and Interpretation
 
 ### Q. What is compilation?
